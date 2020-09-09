@@ -16,4 +16,4 @@ Barnabas O. Babatunde <@Barnabas19>
 
 ## Contribution(s)
 
-Contributions are welcome from more experienced developers to make this project more appealing. Thanks in advance!
+Contributions are welcome from more experienced developers to make this project more appealing. Kindly fork, modify, and make pull request(s). Thanks in advance!
