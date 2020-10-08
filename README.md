@@ -2,15 +2,15 @@
 
 **version 1.0.0**
 
-A simple web app using Ajax to request dog photos from an API
+A single-page website which fetches dog photos from a public API using AJAX
 
-This project was created to practise AJAX technology in the request for resources(dog photos) from an API on the internet.
+This repository was created as a means of practising AJAX technology in requesting for resources(dog photos) from a public API
 
 ---
 
 ## Contributor(s)
 
-Barnabas O. Babatunde <@Barnabas19>
+Barnabas Babatunde <@Barnabas19>
 
 ---
 
