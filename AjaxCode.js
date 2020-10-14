@@ -11,6 +11,7 @@ promise.then(function(response){
 }).then(function(processedResponse){
     image.src = processedResponse.message;
     image.alt = "Cute dog";
+    console.log(processedResponse.message);
 });
 }
 
