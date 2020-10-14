@@ -4724,6 +4724,7 @@ function getPhotos() {
   }).then(function (processedResponse) {
     image.src = processedResponse.message;
     image.alt = "Cute dog";
+    console.log(processedResponse.message);
   });
 }
 
@@ -4788,7 +4789,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49241" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49815" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
